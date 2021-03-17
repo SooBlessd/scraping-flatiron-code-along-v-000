@@ -38,7 +38,7 @@ def make_courses
   end
 end
 # binding.pry
- # Scraper.new.get_page
+
 
 
 
@@ -55,4 +55,4 @@ end
 #
 end
 
-lib/scraper.rb
+ Scraper.new.get_page
