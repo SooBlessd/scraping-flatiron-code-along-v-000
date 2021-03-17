@@ -95,5 +95,3 @@ class Scraper
 end
 
 Scraper.new.print_courses
-ACCESSIBILITY
-TERMS & CO
