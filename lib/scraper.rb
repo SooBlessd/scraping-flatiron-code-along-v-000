@@ -24,6 +24,7 @@ def get_page
     course.description = post.css("p").text
   end
 end
+binding.pry
 # Scraper.new.get_page
 
 
